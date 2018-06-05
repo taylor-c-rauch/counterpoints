@@ -1,5 +1,7 @@
 # HackCville Launch Independent Project
 
-This groundbreaking web application lets you step outside your own ideological bubble and search for articles by three categories: global/international sources, liberal sources, and conservative sources. Are you a liberal who wants to practice empathy and understand what conservatives think about immigration? Or maybe you're a social conservative who wants to learn about pro-legal abortion arguments. Mayhap you just wanna get a more global perspective on some thing? 
+This groundbreaking web application lets you step outside your own ideological bubble and search for articles by three categories: global/international sources, liberal sources, and conservative sources. Are you a liberal who wants to practice empathy and understand what conservatives think about immigration? Or maybe you're a social conservative who wants to learn about pro-legal abortion arguments. Mayhap you just wanna get a more global perspective on climate change? 
 
-Whatever the reason, Counterpoints is for you, bb.
+Whatever the reason, Counterpoints is for you.
+
+Hosted on firebase: https://counterpoints-d90bd.firebaseapp.com
